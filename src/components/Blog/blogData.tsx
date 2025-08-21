@@ -3,12 +3,12 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Reviving the Youtube vanced player",
+    title: "Creating Pink player",
     paragraph:
-      "Reviving the Youtube Vanced player is not just about restoring an app; it&apos;s about reigniting a movement for user-centric design in a world increasingly dominated by corporate interests. As we delve into the intricacies of this project, we uncover the layers of community, innovation, and the relentless pursuit of a better user experience.",
+      "Creating Pink player is not just about restoring an app; it's about reigniting a movement for user-centric design in a world increasingly dominated by corporate interests. As we delve into the intricacies of this project, we uncover the layers of community, innovation, and the relentless pursuit of a better user experience.",
     image: "/images/blog/vanced.jpg",
     author: {
-      name: "Singh",
+      name: "Manjot Singh",
       image: "/images/logo/logo.png",
       designation: "System designer",
     },
