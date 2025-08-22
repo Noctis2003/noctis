@@ -18,7 +18,7 @@ const Footer = () => {
                 </p>
                 <div className="flex items-center">
                   <a
-                    href="/"
+                    href="https://wellfound.com/u/noctis-group-1"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -38,7 +38,7 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="/"
+                    href="https://wellfound.com/u/noctis-group-1"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -60,7 +60,7 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="/"
+                    href="https://wellfound.com/u/noctis-group-1"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -76,7 +76,7 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="/"
+                    href="https://wellfound.com/u/noctis-group-1"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
