@@ -21,7 +21,7 @@ paragraph:
   {
     id: 2,
     icon: (
-      <Image src={Star} alt="Star" className="animate-pulse-ring" />
+      <Image src={Star} alt="Star" className="animate-pulse-soft" />
     ),
 title: "High-Quality Design",
 paragraph:
