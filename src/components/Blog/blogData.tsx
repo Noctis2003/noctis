@@ -19,7 +19,7 @@ const blogData: Blog[] = [
     id: 2,
    title: "An Ice-Breaker Platform for Students",
    paragraph:
-     "A conversation-first platform designed for college students in India. Built to encourage meaningful dialogue, fresh perspectives, and collaborative connections beyond rigid labels. A safe space to exchange ideas, explore different viewpoints, and build networks that grow with you.",
+     "A conversation-first platform designed for college students in America. Built to encourage meaningful dialogue, fresh perspectives, and collaborative connections beyond rigid labels. A safe space to exchange ideas, explore different viewpoints, and build networks that grow with you.",
    image: "/images/blog/dating.jpg",
    author: {
      name: "Amrit",
@@ -33,7 +33,7 @@ const blogData: Blog[] = [
     id: 3,
    title: "A College Collaboration App",
 paragraph:
-  "A dynamic platform where students can connect across colleges in India to buy and sell items, collaborate on projects, join hackathons, or even find creative partners. Built to spark opportunities and genuine connections beyond the classroom.",
+  "A dynamic platform where students can connect across colleges in America to buy and sell items, collaborate on projects, join hackathons, or even find creative partners. Built to spark opportunities and genuine connections beyond the classroom.",
     image: "/images/blog/pixar.jpg",
     author: {
       name: "Jay",
