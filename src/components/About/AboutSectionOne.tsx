@@ -61,7 +61,7 @@ const AboutSectionOne = () => {
                   src="/images/about/lightning.svg"
                   alt="about-image"
                   fill
-                  className=" animate-bounce mx-auto _2 hidden max-w-full drop-shadow-three dark:block dark:drop-shadow-none lg:mr-0"
+                  className=" animate-flip mx-auto _2 hidden max-w-full drop-shadow-three dark:block dark:drop-shadow-none lg:mr-0"
                 />
               </div>
             </div>

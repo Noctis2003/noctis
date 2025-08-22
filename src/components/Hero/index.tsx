@@ -19,7 +19,7 @@ const Hero = () => {
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
-                    href="https://noone"
+                    href="https://manjot.site"
                     className="rounded-3xl bg-gradient-to-br from-gray-600/20 via-gray-900 to-black px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:from-gray-500/30 hover:via-gray-800 hover:to-black hover:scale-105 transform shadow-lg hover:shadow-xl border border-gray-600/20"
                   >
                     🔥 Meet the Creator
