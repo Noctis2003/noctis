@@ -18,13 +18,7 @@ const Hero = () => {
                   We believe that humanity is on the verge of a rapid paradigm shift in how we interact with technology. This shift will not just change interfaces — it will redefine the very relationship between humans and machines. Technology is moving from being a passive tool into becoming an intelligent, adaptive partner in our lives. In the coming years, we won’t just use technology, we’ll collaborate with it seamlessly — in ways that feel natural, intuitive, and transformative. Our vision is to be at the forefront of this change, building the products that turn this paradigm shift into reality.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
-                  <Link
-                    href="https://manjot.site"
-                    className="rounded-3xl bg-gradient-to-br from-gray-600/20 via-gray-900 to-black px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:from-gray-500/30 hover:via-gray-800 hover:to-black hover:scale-105 transform shadow-lg hover:shadow-xl border border-gray-600/20"
-                  >
-                    🔥 Meet the Creator
-                  </Link>
-                
+                 
                 </div>
               </div>
             </div>
