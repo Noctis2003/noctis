@@ -72,6 +72,7 @@ layer(base);
   --animate-float: float 3s ease-in-out infinite;
   --animate-pulse-soft: pulse-soft 2s ease-in-out infinite;
   --animate-wiggle: wiggle 1s ease-in-out;
+  --animate-wiggle_2: wiggle 1s ease-in-out infinite;
   --animate-shake: shake 0.5s ease-in-out;
   --animate-flip: flip 0.6s ease-in-out;
   --animate-zoom-in: zoom-in 0.4s ease-out;
