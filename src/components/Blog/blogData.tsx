@@ -43,6 +43,7 @@ paragraph:
     tags: ["Collaboration", "productivity"],
     publishDate: "2025",
   },
+  
 ];
 
 export default blogData;
