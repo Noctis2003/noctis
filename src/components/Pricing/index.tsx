@@ -22,7 +22,9 @@ const Pricing = () => {
           <div className="w-full">
             <div className="wow fadeInUp" data-wow-delay=".15s">
               <div className="bg-primary/10 text-primary mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-md mx-auto md:mx-0">
-                <Image src={Open} alt="Open Source" />
+                <Image 
+                     sizes="(max-width: 640px) 100vw, (min-width: 641px) 50vw"
+                src={Open} alt="Open Source" />
               </div>
               <h3 className="mb-5 text-xl font-bold text-black sm:text-2xl lg:text-xl xl:text-2xl dark:text-white text-center md:text-left">
                 We Hire Through Open Source Experience
@@ -37,7 +39,9 @@ const Pricing = () => {
           <div className="w-full">
             <div className="wow fadeInUp" data-wow-delay=".25s">
               <div className="bg-primary/10 text-primary mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-md mx-auto md:mx-0">
-                <Image src={Star} alt="Co-founders" />
+                <Image
+                  sizes="(max-width: 640px) 100vw, (min-width: 641px) 50vw"
+                  src={Star} alt="Co-founders" />
               </div>
               <h3 className="mb-5 text-xl font-bold text-black sm:text-2xl lg:text-xl xl:text-2xl dark:text-white text-center md:text-left">
                 Looking for Co-Founders
@@ -52,7 +56,10 @@ const Pricing = () => {
           <div className="w-full">
             <div className="wow fadeInUp" data-wow-delay=".35s">
               <div className="bg-primary/10 text-primary mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-md mx-auto md:mx-0">
-                <Image src={Student} alt="Apply" />
+                <Image
+                  src={Student} alt="Apply"
+                  sizes="(max-width: 640px) 100vw, (min-width: 641px) 50vw"
+                />
               </div>
               <h3 className="mb-5 text-xl font-bold text-black sm:text-2xl lg:text-xl xl:text-2xl dark:text-white text-center md:text-left">
                 Ready to Join Us?

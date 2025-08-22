@@ -25,6 +25,7 @@ export default function Video() {
               <div className="mx-auto max-w-[770px] overflow-hidden rounded-md">
                 <div className="relative aspect-77/40 items-center justify-center">
                   <Image
+                    sizes="(max-width: 640px) 100vw, (min-width: 641px) 50vw"
                     src="/images/video/image.png"
                     alt="video image"
                     className="object-cover"
