@@ -31,7 +31,7 @@ const AboutSectionTwo = () => {
                   Changing the world
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                We believe that we as a species are quiet close to a rapid 
+                We believe that we as a species are quite close to a rapid
                 paradigm shift in the way we interact with technology.
 
                 </p>
