@@ -3,10 +3,10 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Creating Pink player",
+    title: "Posthumous AI",
     paragraph:
-      "Creating Pink player is not just about restoring an app; it's about reigniting a movement for user-centric design in a world increasingly dominated by corporate interests. As we delve into the intricacies of this project, we uncover the layers of community, innovation, and the relentless pursuit of a better user experience.",
-    image: "/images/blog/vanced.jpg",
+      "Say someone you know died, well you can meet their clone. With the current advancements in AI, it's becoming increasingly possible to create digital replicas of people based on their online presence created directly from their social media profiles.",
+    image: "/images/blog/vanced.png",
     author: {
       name: "Manjot Singh",
       image: "/images/logo/logo.png",
