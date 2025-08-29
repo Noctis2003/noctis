@@ -5,7 +5,7 @@ const blogData: Blog[] = [
     id: 1,
     title: "Posthumous AI",
     paragraph:
-      "Say someone you know died, well you can meet their clone. With the current advancements in AI, it's becoming increasingly possible to create digital replicas of people based on their online presence created directly from their social media profiles.",
+      "With AI advancing rapidly, it’s now increasingly possible to create detailed digital replicas of people using their online presence, including social media activity, posts, and interactions. These replicas can mimic their speech patterns, personality traits, and even the way they respond to questions. As a result, it’s becoming possible to interact with a version of someone long after they’re gone.",
     image: "/images/blog/vanced.png",
     author: {
       name: "Manjot Singh",
